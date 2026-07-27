@@ -16,10 +16,10 @@ timezone:
 
 title: Java World # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: My thoughts on Java and Modern Technologies # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A blog about Java programming and related technologies (Cloud Computing, System Design, Ditributed System, GenAI/AI/ML ).
+  A blog about Java programming and related technologies (Cloud Computing, System Design, Distributed Systems, GenAI/AI/ML ).
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
