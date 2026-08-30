@@ -3,8 +3,6 @@ layout: post
 title:  "Azure for Java Developers"
 ---
 
-# Azure for Java Developers
-
 In this article I will introduce you progressively on how beautiful it is to use Java on Azure.
 
 ## What is Microsoft Azure?
