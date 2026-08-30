@@ -7,8 +7,6 @@ title:  "Azure for Java Developers"
 
 In this article I will introduce you progressively on how beautiful it is to use Java on Azure.
 
-![alt text](image.png)
-
 ## What is Microsoft Azure?
 
 To simply say, **Microsoft Azure** is a **cloud computing platform** provided by Microsoft. It allows organizations and individuals to build, deploy, run, and manage applications and IT infrastructure using Microsoft’s global network of data centers spread all around the world, between [Regions](https://learn.microsoft.com/en-us/azure/reliability/regions-overview) and [Availability Zones](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview?tabs=azure-cli).
