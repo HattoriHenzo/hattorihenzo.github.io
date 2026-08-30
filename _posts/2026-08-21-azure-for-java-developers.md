@@ -55,7 +55,7 @@ As the #1 programming language, you may know that [Java](https://www.oracle.com/
 
  Even if not explicitly mentionned, there are other very important techonlogies like other frameworks for microservice-oriented architectures: [Quarkus](https://quarkus.io/), [Micronaut](https://micronaut.io/).
 
- ## Conclusion
+## Conclusion
 
 You are a Java Developers and looking for a robust, user friendly and, secure cloud plaform, Azure is your choice. Among the top 3 Cloud platform, Azure provides a complete cloud platform for building, modernizing, deploying, and scaling Java applications. Java developers can run everything from traditional Spring Boot monoliths and batch applications to microservices and serverless architectures.
 
