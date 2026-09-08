@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Azure for Java Developers"
+categories: [cloud, java]
 ---
 
 In this article, I will progressively introduce you to the benefits of using Java on Azure.
