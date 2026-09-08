@@ -1,5 +1,5 @@
 ---
 layout: category
-title: 'devex'
+title: 'developer experience'
 category: devex
 ---

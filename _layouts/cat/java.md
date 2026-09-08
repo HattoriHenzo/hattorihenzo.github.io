@@ -1,5 +1,5 @@
 ---
 layout: category
 title: 'java'
-category: guides
+category: java
 ---
