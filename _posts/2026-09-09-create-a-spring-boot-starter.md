@@ -650,7 +650,7 @@ Example:
 Happy coding, and enjoy building your own starters!
 
 ### Some useful links:
-The source code on [github](https://github.com/HattoriHenzo/practice-springboot-autoconfiguration).
+The source code available on [github](https://github.com/HattoriHenzo/practice-springboot-autoconfiguration).
 1. https://docs.spring.io/spring-boot/reference/features/developing-auto-configuration.html
 2. https://www.youtube.com/watch?v=9m1bC57oWrc
 
