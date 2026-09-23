@@ -6,8 +6,6 @@ categories: [java,devex]
 
 ---
 
-# What’s New in Java 21 and How OpenRewrite Helps You Migrate Quickly
-
 ![alt text](/assets/image_java_21.png)
 
 Hello friend! If you are maintaining older Java applications, Java 21 is a very reasonable target if you are not willing to move to Java 25. Beside of being a Long Term Support (LTS) version, it gives you a modern baseline without forcing you to do a risky migration. Talking about migration, tools like [OpenRewrite](https://docs.openrewrite.org/) make the transition more easier than ever.
