@@ -20,7 +20,7 @@ Every Java release does not magically make an application twice faster, but movi
 
 One of the best reasons to upgrade is simply that - modern Java is nicer to read. Java 21 gives you language features that remove noise and the verbosity Java syntax used to suffer.
 
-In this project, for example, the `StringTemplates.java` sample shows how string interpolation can become much easier to read:
+Below you have some syntax improvement:
 
 ```java
 String name = "Simba";
@@ -30,6 +30,7 @@ String message = STR."[AFTER] Hello \{name}, I am your father!";
 That is much easier on the eyes than older format-based code such as:
 
 ```java
+String name = "Simba";
 String message = String.format("[BEFORE] Hello, %s! Welcome to Java 21.", name);
 ```
 
@@ -59,15 +60,17 @@ The examples in this repository are intentionally small. The goal is not to show
 
 ### 1\. String Templates
 
-The `StringTemplates.java` file compares an older formatting style with the newer template syntax:
+Here, you can find a comparison with the old and the new syntax:
 
 ```java
+String name = "Simba";
 String message = String.format("[BEFORE] Hello, %s! Welcome to Java 21.", name);
 ```
 
 versus
 
 ```java
+String name = "Simba";
 String message = STR."[AFTER] Hello \{name}, I am your father!";
 ```
 
