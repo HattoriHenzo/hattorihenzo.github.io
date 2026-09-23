@@ -1,7 +1,7 @@
 ---
 
 layout: post  
-title: "Create a Spring Boot Starter"  
+title: "What’s New in Java 21 and How OpenRewrite Helps You Migrate Quickly"  
 categories: [java,devex]
 
 ---
